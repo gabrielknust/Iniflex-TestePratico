@@ -12,7 +12,7 @@ As classes de domínio (Pessoa e Funcionario) estão na pasta src/main/java/mode
 
 
 ## Pré-requisitos
-Antes de executar é importante garantir que o JDK (Java Development Kit) está instalado corretamente na sua máquina.
+Antes de executar é importante garantir que o JDK (Java Development Kit) 11 ou superior está instalado corretamente na sua máquina.
 
 ## Como executar
 
